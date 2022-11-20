@@ -1,0 +1,725 @@
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0000048549557964.jpg 199,552,334,582,0 445,536,743,725,0 723,526,959,664,0 848,531,1023,697,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0000599864fd15b3.jpg 0,379,55,422,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00005bf623ff1ac2.jpg 37,91,997,630,0 766,105,1023,235,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\000096726fd6c6c8.jpg 74,159,149,240,0 153,124,811,767,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0001124e2d5104e1.jpg 16,19,962,810,0 37,36,203,156,0 125,39,318,131,0 251,30,389,127,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0001c626b9afb50c.jpg 112,139,908,550,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0001d44d735c814c.jpg 3,75,787,678,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\000228608388803f.jpg 19,156,973,715,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\000297578acb067b.jpg 23,531,843,901,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0002f9c7fac5f093.jpg 0,690,273,925,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00036603fa39fa85.jpg 2,201,108,271,0 115,171,166,210,0 591,0,1023,119,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00049e69cdd23a3d.jpg 95,26,953,585,0 165,122,219,158,0 728,115,781,150,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0004d295cfb46842.jpg 0,427,46,456,0 3,407,24,427,0 57,412,82,435,0 157,412,261,452,0 556,420,670,473,0 744,429,933,498,0 846,407,880,429,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0004d5a9dd44ab6a.jpg 0,182,47,259,0 0,214,192,347,0 90,136,908,795,0 683,209,825,325,0 868,195,1016,256,0 908,313,1023,445,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00054dab88635bdb.jpg 258,255,810,615,0 651,250,794,354,0 727,234,952,396,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0005e6f620022747.jpg 0,0,1020,680,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0005ea10e0e14db1.jpg 0,0,773,459,0 811,102,1023,336,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0006176101d9d341.jpg 81,153,845,481,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0006c87d3735fcef.jpg 0,441,135,600,0 99,461,277,572,0 238,463,348,552,0 328,475,393,537,0 384,473,441,545,0 429,481,471,534,0 471,470,572,537,0 583,475,622,511,0 634,478,653,497,0 665,475,691,502,0 780,473,826,521,0 808,466,867,521,0 843,454,907,526,0 877,461,972,540,0 936,463,1023,572,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00071c51c8e92a68.jpg 300,298,360,466,0 306,60,338,128,0 463,217,589,287,0 496,225,767,650,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0007870724402b51.jpg 48,270,629,884,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0007918815abb0a2.jpg 0,0,1022,559,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0007bd7afaaf5415.jpg 549,324,591,362,0 712,334,978,506,0 891,410,1023,716,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\000823c3bde83d9a.jpg 39,80,919,563,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\000998c7ed279358.jpg 18,481,540,647,0 210,499,558,631,0 279,520,434,540,0 425,522,580,604,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\000a8a98e1de3e25.jpg 625,295,671,327,0 777,286,986,383,0 922,293,1023,351,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\000bcee5bed5446b.jpg 112,520,170,561,0 116,490,177,520,0 201,416,236,446,0 413,504,450,542,0 414,632,466,686,0 425,492,450,506,0 459,511,560,546,0 504,623,602,651,0 544,684,681,743,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\000bd0b4fa27644c.jpg 0,320,55,351,0 98,320,175,350,0 359,312,436,352,0 500,308,548,339,0 539,303,668,334,0 659,255,922,406,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\000cac60a2d33367.jpg 241,599,591,756,0 593,612,815,740,0 772,625,1000,749,0 812,609,928,668,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\000cd0b046e4390b.jpg 0,0,1021,765,0 5,248,61,302,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\000cfa102510c0f1.jpg 94,410,148,448,0 173,413,224,453,0 511,438,634,499,0 583,436,677,506,0 663,459,761,517,0 768,447,866,498,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\000de78d19a0be3e.jpg 0,0,1023,679,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\000dee875ec79a3d.jpg 155,119,939,639,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\000e7c5f11d82f1a.jpg 0,359,210,496,0 0,39,1022,766,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\000eba40a5b0dce6.jpg 0,267,229,517,0 97,255,284,367,0 356,269,526,388,0 549,251,567,301,0 627,257,710,321,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\000f96aacadf7aa5.jpg 593,294,940,483,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\000fe11025f2e246.jpg 0,613,168,702,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00101ca6983dde74.jpg 0,717,178,803,0 663,731,951,803,0 916,723,1023,803,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0010f2581775d795.jpg 0,672,19,693,0 0,691,189,883,0 55,674,401,922,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\001156eb13f37194.jpg 88,27,960,734,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00123b9468b497ff.jpg 0,0,1023,682,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0012a525cef6c863.jpg 167,272,892,543,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0012b2116d38c8f0.jpg 0,0,1022,680,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0012b7a8cd7c48d2.jpg 0,457,103,588,0 120,492,227,539,0 123,497,632,604,0 222,523,379,620,0 327,532,400,607,0 625,596,640,622,0 732,614,918,681,0 758,627,822,681,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0013cf20040cbc04.jpg 424,220,925,421,0 696,206,1022,766,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\001461e5869be249.jpg 43,32,80,73,0 201,44,486,180,0 460,48,508,84,0 577,51,624,86,0 619,56,654,73,0 731,63,777,91,0 812,67,950,150,0 952,99,992,142,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\001471c044462e0e.jpg 197,476,467,660,0 414,440,488,483,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\001475bfa657169d.jpg 117,373,247,470,0 856,377,907,444,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00149163805f2ce0.jpg 341,362,503,432,0 469,360,579,428,0 497,181,777,378,0 536,368,663,423,0 629,368,743,420,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\001493fd26374606.jpg 0,334,125,584,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0014968c722c4bbf.jpg 86,0,304,87,0 516,0,947,126,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00155bc9538a26ed.jpg 3,79,1001,575,0 594,53,1023,248,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0015c6895036b273.jpg 821,542,983,633,0 828,513,860,526,0 835,509,872,521,0 860,522,911,543,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\001609bdf7825870.jpg 0,809,90,967,0 11,776,101,849,0 46,779,137,805,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00164d730e5a8a8d.jpg 100,0,280,54,0 289,0,454,58,0 536,0,727,62,0 719,0,967,62,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00177d337d2849bd.jpg 60,699,97,749,0 69,704,132,765,0 97,715,167,776,0 132,726,197,809,0 268,743,469,841,0 304,719,366,754,0 410,729,527,792,0 455,764,839,841,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00179ef6f55e4ba6.jpg 33,128,991,541,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0019e27f3790afa6.jpg 0,399,12,563,0 0,342,64,552,0 0,273,144,375,0 88,227,1022,684,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\001a252aa4b450e8.jpg 0,36,404,249,0 0,60,1022,772,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\001a4c5a994c1425.jpg 695,834,906,974,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\001afcfc16548093.jpg 0,74,275,359,0 32,91,972,582,0 779,39,1023,305,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\001b09b7a248be38.jpg 0,136,270,390,0 593,137,753,245,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\001ca84e28488f7a.jpg 0,166,261,293,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\001ce8701d70e3f0.jpg 15,216,173,284,0 20,222,169,315,0 79,212,319,324,0 147,228,373,302,0 621,0,1023,764,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\001d5125f56451d6.jpg 167,352,394,509,0 0,0,1023,682,0 115,320,1023,523,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\001d5341337eecf7.jpg 15,106,1023,658,0 147,106,227,167,0 252,117,325,156,0 304,120,410,171,0 457,110,559,177,0 513,170,1023,482,0 552,122,596,167,0 818,149,901,169,0 823,132,865,152,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\001e1baea38fd42e.jpg 0,337,39,452,0 147,368,243,465,0 195,257,870,524,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\001ea9b9fe75f609.jpg 49,89,936,711,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\001ede9564370173.jpg 0,0,1023,575,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\001f8c87ce342d78.jpg 796,96,1022,265,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\002015e4c344d706.jpg 67,518,459,646,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00213f3e0eb0ba42.jpg 331,467,577,626,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0021af0b921af690.jpg 0,198,318,399,0 329,255,492,404,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0021b788b5bd4b47.jpg 36,200,57,235,0 51,208,68,226,0 67,181,140,239,0 120,37,904,630,0 174,199,191,231,0 224,169,292,237,0 373,187,417,213,0 405,187,438,206,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0021c515128a6b1b.jpg 0,358,1021,677,0 90,310,133,347,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0022148abedec60d.jpg 51,35,672,326,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\002223b533d730f5.jpg 775,497,942,588,0 613,526,792,604,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00232af3bb438e8b.jpg 831,299,1021,692,0 0,397,47,550,0 0,362,215,574,0 311,367,582,541,0 320,406,398,456,0 388,361,1023,753,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00242aecec762482.jpg 140,257,497,361,0 992,189,1023,237,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00242d448a029476.jpg 0,0,1023,682,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00244e67ccadc40b.jpg 0,0,1023,767,0 97,439,309,554,0 484,448,506,460,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0024b9746a5b5089.jpg 225,259,705,531,0 513,290,733,453,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0024faa5a22d92a3.jpg 0,0,1023,682,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\002519da8075cd9b.jpg 36,50,899,613,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0026028e00ed6350.jpg 353,285,871,455,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\002691b3032ae06c.jpg 0,0,688,1022,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0026bc3c96b31dcf.jpg 787,318,1001,411,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0026c246d5c33bea.jpg 7,320,225,501,0 255,336,529,546,0 496,304,712,477,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\002721a3fbfb51e1.jpg 88,761,245,819,0 117,78,723,468,0 310,754,470,817,0 532,754,694,816,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0027bf6a5d8c382d.jpg 0,0,208,158,0 32,0,977,639,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0027ee74c186cbea.jpg 0,123,520,417,0 0,95,1023,626,0 176,107,301,175,0 251,112,489,192,0 392,120,608,224,0 615,115,753,170,0 798,140,846,186,0 834,111,1023,299,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0028237702e9fa1f.jpg 87,126,878,550,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00286ecf927320ca.jpg 0,382,17,449,0 0,381,89,448,0 53,381,139,437,0 139,375,206,411,0 515,397,549,435,0 543,377,711,444,0 719,382,818,440,0 754,378,878,440,0 819,376,1023,476,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\002871b50b586c6b.jpg 0,122,320,184,0 0,84,629,360,0 53,149,997,524,0 524,176,572,188,0 609,142,777,199,0 784,141,892,202,0 867,146,1023,256,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0029cb5bf907f89e.jpg 250,62,773,539,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\002a45e149cd082f.jpg 56,347,336,490,0 677,364,689,384,0 697,352,730,384,0 728,359,741,376,0 741,355,751,373,0 751,355,769,369,0 764,347,799,366,0 826,349,899,373,0 842,354,847,360,0 894,357,907,375,0 904,357,912,383,0 911,359,929,382,0 921,366,1023,448,0 929,350,984,389,0 974,360,1023,375,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\002a78dc4331b2a6.jpg 90,176,1006,594,0 621,245,1023,444,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\002ae5f2490ce216.jpg 284,489,570,547,0 492,524,779,701,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\002b4b98029c95ca.jpg 338,278,769,440,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\002d16836e9fae5e.jpg 232,98,355,237,0 316,71,679,263,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\002d4e7f08cf65bb.jpg 0,0,1023,681,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\002d84b8ebff3729.jpg 0,476,254,587,0 270,517,432,584,0 701,555,760,584,0 757,554,785,590,0 885,556,908,583,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\002da67552d7e708.jpg 0,393,107,506,0 88,87,924,578,0 962,339,1023,495,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\002f860e692757f7.jpg 0,50,62,229,0 0,65,728,682,0 22,48,176,133,0 172,48,259,94,0 273,44,360,83,0 432,34,554,78,0 624,34,673,63,0 758,16,992,114,0 985,25,1023,137,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\002fb1f61fef25de.jpg 0,590,382,767,0 0,203,940,666,0 257,108,1006,187,0 394,177,942,396,0 545,150,963,307,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\002fbf2de58da8b5.jpg 36,90,147,195,0 45,9,974,605,0 695,67,918,231,0 935,41,1023,110,0 1003,56,1022,104,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00314a73100a106a.jpg 11,374,1012,777,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00320a4009f3dcd1.jpg 0,531,243,657,0 239,551,388,637,0 372,513,1009,767,0 790,547,1023,677,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00321efbf4ad0601.jpg 768,573,1023,716,0 892,555,1023,613,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0034aa899dfc2ff3.jpg 0,258,348,504,0 133,132,919,576,0 181,259,286,286,0 199,286,241,315,0 274,246,365,283,0 698,238,812,291,0 821,227,964,286,0 968,230,1023,291,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0035a863edf0a16d.jpg 0,104,35,209,0 24,0,969,576,0 642,14,1023,348,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0035e090e906bc62.jpg 697,485,728,524,0 739,486,807,540,0 952,473,1022,544,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0035f9d193b03800.jpg 79,32,979,645,0 619,0,1023,390,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0036985569928be8.jpg 17,184,476,344,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0036c37619289b0c.jpg 0,382,157,510,0 104,471,561,753,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0036ce1faeb7c818.jpg 704,465,835,576,0 126,503,216,524,0 220,516,243,521,0 257,509,293,524,0 532,517,544,522,0 564,513,576,520,0 574,512,622,524,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0036fd0d4a4d7001.jpg 293,396,733,605,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\003789259d818272.jpg 564,507,981,664,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\003799e0f425e787.jpg 294,899,587,1023,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0037a2e5d0aacc4a.jpg 233,674,686,766,0 353,675,541,727,0 571,694,976,766,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0037df9f4ad04cf5.jpg 96,214,392,447,0 375,301,686,650,0 684,248,949,473,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00382836607aa2df.jpg 195,166,1023,677,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\003969d7618ce599.jpg 300,540,312,565,0 437,508,517,576,0 511,508,672,590,0 739,502,863,577,0 881,488,1023,623,0 890,513,1007,534,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\003a1fef5cd441ba.jpg 0,37,57,150,0 0,0,218,90,0 33,13,979,716,0 444,0,764,140,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\003a61dc573e6fdb.jpg 228,241,513,330,0 712,296,1023,510,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\003a9e99a2753141.jpg 0,180,335,387,0 104,58,928,685,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\003aa3a3092cb463.jpg 0,0,1023,680,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\003aaf497f719196.jpg 0,0,1023,773,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\003aafa1f1e33747.jpg 632,473,931,638,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\003ab1669d8b811f.jpg 62,176,946,480,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\003b9d6b1cc93326.jpg 0,201,53,262,0 456,187,1022,320,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\003dd038c4a8920c.jpg 90,413,493,688,0 284,483,797,876,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\003ed92b6eb43e1b.jpg 532,0,629,29,0 604,9,760,72,0 743,0,846,33,0 855,0,984,102,0 953,0,1018,40,0 995,4,1023,55,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0040f0f027a564ed.jpg 0,400,37,492,0 0,424,201,523,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00418bdb1a4e3f6f.jpg 0,668,34,681,0 123,557,341,681,0 372,476,551,590,0 671,409,732,478,0 752,374,822,436,0 790,574,954,681,0 893,506,968,573,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00426726ff68cc48.jpg 0,136,158,319,0 37,111,1004,578,0 95,140,239,195,0 789,98,940,173,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00435745b14a50d9.jpg 0,66,285,179,0 0,119,462,293,0 32,136,999,566,0 423,120,596,159,0 675,388,1023,681,0 785,182,996,259,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00438dad193f0c28.jpg 853,269,1023,545,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0043c099dfd0b208.jpg 193,516,410,619,0 484,500,658,594,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0043ea91600e3cb8.jpg 479,522,767,818,0 716,457,767,503,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0045a269c2141897.jpg 556,246,753,387,0 33,277,225,357,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0045c7d2e41b4dc0.jpg 864,385,968,437,0 941,395,1023,446,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0045d88407bab692.jpg 887,519,1023,747,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0046871d33d70893.jpg 0,72,151,224,0 0,0,1023,767,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\004731d03f8d6764.jpg 0,17,350,211,0 141,90,980,614,0 666,18,921,130,0 864,43,997,114,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\004792ccf19a9ced.jpg 83,168,897,661,0 486,171,1023,449,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0047c66c4cd20efc.jpg 0,489,168,690,0 145,419,885,765,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0047e24c172a6d0e.jpg 0,103,195,238,0 0,132,61,267,0 162,112,566,258,0 477,106,628,209,0 576,104,848,220,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00492e9dbaf3c2a1.jpg 0,37,386,280,0 39,43,982,494,0 561,75,1023,227,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00494d0811b9e652.jpg 0,311,65,344,0 96,412,412,550,0 97,496,151,542,0 119,512,193,544,0 124,314,274,340,0 182,446,216,466,0 192,515,255,545,0 225,456,252,480,0 243,473,279,495,0 246,487,283,514,0 250,413,290,434,0 259,461,284,470,0 282,453,302,469,0 284,425,312,437,0 286,477,321,500,0 297,455,320,475,0 307,493,357,526,0 323,450,345,468,0 352,426,389,445,0 362,473,395,500,0 388,469,409,493,0 400,510,456,566,0 408,437,448,462,0 464,524,531,588,0 524,493,559,516,0 526,444,552,462,0 586,463,611,485,0 615,517,798,682,0 643,475,668,497,0 656,485,696,516,0 864,534,1009,642,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\004aacd0ca2f93c9.jpg 0,268,595,767,0 0,268,597,767,0 110,383,130,399,0 112,384,130,397,0 760,323,945,501,0 762,320,944,501,0 952,343,1023,392,0 953,341,1023,392,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\004aebeb3dea697a.jpg 0,0,1022,682,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\004b1c4e2d204ed1.jpg 0,120,103,231,0 13,119,959,639,0 440,74,1023,397,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\004c1c2b94414d04.jpg 59,227,967,538,0 672,179,1006,251,0 683,194,1023,395,0 696,135,822,193,0 967,473,1023,767,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\004c460c3f18e6a0.jpg 212,76,789,311,0 225,157,1011,494,0 305,99,1023,767,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\004c4c96280cd935.jpg 0,497,151,595,0 456,504,564,660,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\004c8a3190d4b164.jpg 92,392,654,575,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\004e03d45963728e.jpg 810,302,906,379,0 945,297,997,349,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\004e386c8731573b.jpg 0,99,211,533,0 0,17,1023,735,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\004e7d6b70fe1768.jpg 0,289,57,403,0 0,98,1023,607,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\004f1a74fd85483f.jpg 0,0,871,574,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\004f345ce26e9d2e.jpg 69,341,984,739,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\005118a1a7d0b367.jpg 172,450,234,476,0 227,295,526,615,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00516bf08cf0cdeb.jpg 0,445,156,542,0 67,458,760,767,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0051b04ecd090e69.jpg 23,424,132,506,0 112,428,345,530,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0051b190cdc3ab8a.jpg 0,266,165,520,0 0,279,181,510,0 62,254,403,547,0 64,251,403,547,0 125,247,284,330,0 126,239,281,314,0 355,269,440,344,0 356,272,449,347,0 430,219,921,561,0 790,269,952,351,0 790,271,954,348,0 979,272,1023,327,0 979,272,1023,333,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\005270c5d6e6b6d6.jpg 352,517,846,669,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00540dc66af81e94.jpg 584,491,786,576,0 986,487,1023,508,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0055536e3e985ecb.jpg 0,287,253,490,0 129,214,977,554,0 180,207,300,299,0 424,161,479,194,0 540,139,625,195,0 599,191,860,283,0 703,181,908,269,0 963,234,1023,326,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00566d91765600a5.jpg 0,167,465,556,0 376,254,588,390,0 403,276,521,316,0 457,83,961,417,0 948,308,1022,378,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0057302186980f9e.jpg 0,0,1013,766,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0057a1d9d9484c13.jpg 0,617,253,767,0 293,643,622,767,0 629,621,848,744,0 842,649,979,721,0 976,645,1023,700,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00587f49d1f61068.jpg 0,261,336,414,0 49,156,1023,719,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0059356932604995.jpg 0,96,290,295,0 175,145,915,575,0 334,96,568,234,0 635,108,727,186,0 795,91,1023,289,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\005a5c7f6060132f.jpg 8,339,263,520,0 92,329,267,496,0 213,331,540,510,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\005aabe9f1eb23ab.jpg 391,585,668,703,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\005ad31ca74e2368.jpg 0,69,1015,571,0 630,129,735,232,0 698,119,764,153,0 716,133,942,234,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\005b4ca3a3570432.jpg 23,40,968,684,0 622,128,1023,451,0 733,145,1022,218,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\005c0a8893e709b7.jpg 89,49,889,684,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\005dd14b92a091f4.jpg 0,194,200,308,0 90,196,403,346,0 384,196,598,314,0 775,176,965,299,0 907,185,1023,309,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\005e482f13996811.jpg 625,206,929,411,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\005e9a78ac73a118.jpg 0,0,1023,767,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00607c8121301d54.jpg 163,418,312,500,0 271,385,557,604,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\006197e70fb6a375.jpg 0,0,1023,378,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00632003825ca6c4.jpg 887,280,1022,559,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0063e0bcd8c298b8.jpg 615,291,641,345,0 629,287,666,360,0 718,319,817,397,0 789,312,968,436,0 870,316,1023,500,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00645786ddf27788.jpg 607,789,767,973,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\006540f577a1c683.jpg 28,0,767,821,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0066a1893fef7f6b.jpg 36,228,952,599,0 809,239,1023,430,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0066c6140932fac6.jpg 552,433,948,619,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00684a1deb01d64c.jpg 79,171,266,426,0 682,167,882,305,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0069bac022daedf4.jpg 492,528,1022,899,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\006a496c71d50b55.jpg 100,177,778,679,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\006c2bd42fda3598.jpg 0,383,449,811,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\006ca40a8117b879.jpg 247,246,1013,595,0 330,243,645,353,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\006d69efd7bc33f5.jpg 277,237,735,532,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\006f999b1eb1fe03.jpg 23,202,42,215,0 94,197,139,215,0 106,64,895,588,0 200,201,218,211,0 219,196,314,227,0 837,187,882,244,0 881,191,970,256,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00702f9bbe4d86a5.jpg 0,257,944,684,0 853,257,1023,410,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0070e7ac9d5a202a.jpg 81,0,930,617,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0071605d6628fb6e.jpg 0,176,353,406,0 32,122,946,620,0 671,177,837,259,0 810,202,1023,314,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0071a97943cc9a6f.jpg 373,170,770,318,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0072089fc56ab904.jpg 747,407,812,463,0 892,417,906,427,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0072149d8e21f121.jpg 115,667,889,861,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\007562eb11a99fe9.jpg 90,256,933,528,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0075ea6f6004baa8.jpg 117,311,751,913,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00765d32b21fe7a4.jpg 0,588,98,692,0 187,471,471,634,0 714,513,1023,687,0 1006,480,1023,541,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\007741a1be3f3280.jpg 0,294,1022,766,0 10,316,153,368,0 143,303,203,353,0 218,307,307,341,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00777823afff31f7.jpg 829,402,1022,680,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\007b42b566c8950a.jpg 864,310,1022,501,0 914,283,1017,323,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\007cd9d9b02c6d99.jpg 5,114,1024,641,0 0,276,45,324,0 763,187,1023,459,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\007dd9372c1d4088.jpg 30,0,343,186,0 288,19,740,173,0 675,0,1023,408,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\007e64cac4c1917e.jpg 73,302,942,647,0 32,251,109,298,0 177,238,285,302,0 523,259,629,296,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0080f94f60085954.jpg 39,161,990,624,0 385,144,585,190,0 694,151,901,235,0 830,152,952,220,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\008167bd392ebe7d.jpg 199,507,416,672,0 202,511,840,680,0 398,545,526,642,0 501,538,588,625,0 567,533,651,600,0 631,511,841,607,0 800,495,826,522,0 835,481,861,504,0 848,474,864,497,0 850,492,890,533,0 851,477,976,534,0 874,478,946,521,0 903,571,1023,685,0 924,488,975,525,0 1010,528,1023,572,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00817ced730dc364.jpg 0,209,379,311,0 44,128,932,641,0 932,271,1013,305,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\008578cae2e2e6fa.jpg 113,106,1022,655,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0085f9008c44a698.jpg 0,0,1022,684,0 455,0,893,188,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0087f42c4dc1201e.jpg 158,298,967,551,0 720,280,812,298,0 862,285,921,296,0 926,281,1015,296,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0088f45d0a4cc252.jpg 0,0,1023,767,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\008ad3158b8919e1.jpg 249,537,675,681,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\008c58ed8884984b.jpg 0,567,81,747,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\008ea9f3f098de59.jpg 85,689,336,754,0 0,673,53,764,0 40,672,124,725,0 109,680,199,742,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\008ec0294bbf64a9.jpg 0,0,1023,686,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\008ef273a5330af0.jpg 0,288,189,364,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\008f641a55f46e51.jpg 46,170,910,684,0 484,231,1023,496,0 789,200,877,236,0 829,224,1023,321,0 949,190,1016,218,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\008f9a566f8d5507.jpg 0,12,1022,756,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\008fcbf78ff3c7e2.jpg 0,513,252,721,0 125,244,245,347,0 282,170,334,223,0 312,549,498,689,0 419,65,511,117,0 810,502,1023,648,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0090298cd6785bd6.jpg 81,21,954,744,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00904570a8044227.jpg 0,0,132,115,0 0,49,1023,679,0 252,0,968,122,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00908621734a0638.jpg 151,347,454,449,0 847,370,894,391,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0092078da3a6be95.jpg 379,352,617,450,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0093a7a76bae337d.jpg 0,183,285,483,0 94,208,389,320,0 263,213,370,264,0 334,213,386,272,0 385,216,516,277,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0095be9b0802e73a.jpg 576,104,717,173,0 221,91,560,276,0 736,118,816,163,0 816,122,842,152,0 834,126,897,165,0 897,134,918,154,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0096ba8fb44c1e2a.jpg 26,49,992,503,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0096ca8a9b502064.jpg 17,135,1023,663,0 992,126,1009,133,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0096eab4839b32ba.jpg 131,496,228,542,0 224,497,363,557,0 448,484,1023,614,0 456,526,799,614,0 750,501,961,614,0 910,495,1005,571,0 984,487,1023,536,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0097387d728c0e0e.jpg 74,349,223,431,0 218,343,285,382,0 270,344,348,396,0 314,333,951,534,0 761,330,925,389,0 833,330,1023,431,0 988,439,1023,550,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00980dff512ae945.jpg 0,241,37,386,0 0,218,451,357,0 24,278,99,346,0 26,270,77,362,0 459,270,492,303,0 470,264,491,296,0 486,268,511,289,0 512,127,1023,670,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\009ac48aed692001.jpg 116,158,927,540,0 102,109,126,144,0 823,145,942,193,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\009be32bdede35d2.jpg 97,448,956,877,0 0,460,17,567,0 101,409,387,560,0 195,401,309,424,0 392,420,483,437,0 402,427,480,444,0 576,439,789,553,0 812,448,1023,600,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\009bf104c3f0c59c.jpg 134,315,856,832,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\009d23e04f2fccd8.jpg 102,696,119,710,0 142,696,166,709,0 184,698,213,711,0 413,664,858,766,0 414,700,625,739,0 638,670,802,766,0 785,700,843,766,0 974,704,1022,766,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00a084a5900b5493.jpg 0,353,794,978,0 24,817,188,995,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00a1f80b8dabdac9.jpg 0,157,277,370,0 277,178,1023,437,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00a3d94534a1b356.jpg 0,85,71,160,0 93,86,176,145,0 159,78,211,119,0 288,99,409,152,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00a601c5da2603d2.jpg 632,429,707,512,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00aaf5c6d57a8670.jpg 499,523,577,591,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00ae7fa2f95c79a1.jpg 270,367,956,658,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00af75bbb0a0fdc2.jpg 6,357,713,532,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00b17338a7694006.jpg 718,173,1018,607,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00b21c783d2cd6f4.jpg 0,587,188,664,0 353,590,531,672,0 673,610,849,667,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00b34125e40825fe.jpg 192,500,368,573,0 491,505,748,603,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00b36be78f74b084.jpg 89,25,974,740,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00b3be84316414eb.jpg 0,252,60,317,0 117,176,848,690,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00b3d79b3d9e6c9c.jpg 0,158,870,596,0 841,460,1023,609,0 968,216,1023,299,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00b60a7c9839b2dd.jpg 150,228,924,574,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00b7d9c7e552e3d1.jpg 80,336,605,521,0 439,313,987,515,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00ba474273a2a2ea.jpg 217,256,801,435,0 697,374,1020,589,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00bab2d447b6355f.jpg 3,193,181,534,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00bcd0048379f5ea.jpg 0,0,1023,581,0 952,60,1023,170,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00bffc29492dbc26.jpg 0,192,117,266,0 0,197,434,535,0 53,184,974,654,0 288,177,494,232,0 873,149,1023,323,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00c098c7959397c3.jpg 0,954,230,1023,0 0,898,517,1023,0 142,921,235,1001,0 217,905,382,1019,0 345,929,524,1023,0 347,907,448,968,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00c47fd0acbf45c3.jpg 0,562,192,721,0 40,564,227,688,0 684,632,767,758,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00c4cedcda9b70d6.jpg 28,362,897,624,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00c4efcca665e2d6.jpg 101,177,888,559,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00c5d3e406450556.jpg 37,110,988,910,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00c640f9a957924c.jpg 48,184,944,615,0 17,138,51,149,0 55,138,87,149,0 69,203,430,292,0 99,133,132,152,0 435,252,481,267,0 714,161,929,286,0 897,161,969,188,0 903,206,974,247,0 999,167,1023,225,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00c82d64185293a7.jpg 179,43,783,521,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00c9e7aa4063b5be.jpg 7,56,221,312,0 58,5,971,799,0 820,81,1022,334,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00cac7ea145fc734.jpg 256,411,489,550,0 526,401,718,528,0 926,410,1020,535,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00cbc1358d338fe0.jpg 17,776,170,854,0 11,350,695,1005,0 15,344,170,483,0 366,411,521,494,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00cc0b94078e0282.jpg 7,0,809,766,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00cf893902965544.jpg 0,0,1023,682,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00d418220e8f6749.jpg 277,236,793,421,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00d5b1f031732ffc.jpg 77,221,904,562,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00d75e15e0cea2b5.jpg 135,338,364,424,0 0,338,143,435,0 460,272,720,394,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00d7f157f8528c6f.jpg 177,172,949,635,0 824,163,937,231,0 867,134,1023,231,0 883,152,957,258,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00d8820a29b4d9cc.jpg 141,292,922,636,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00da4daeb67656b8.jpg 818,536,1021,747,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00dc5500c7609c96.jpg 3,384,90,455,0 12,448,98,564,0 724,407,903,564,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00dd7bfce34210a0.jpg 133,379,258,444,0 232,363,324,416,0 307,358,371,415,0 364,366,425,410,0 484,379,611,470,0 485,361,520,385,0 504,358,535,379,0 530,354,558,375,0 544,351,638,385,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00ddc3fd1384e066.jpg 0,336,1023,682,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00e105ea2d26fa04.jpg 481,284,733,401,0 501,249,1023,398,0 753,272,809,317,0 803,271,872,314,0 838,270,898,324,0 962,281,1023,335,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00e248655229816d.jpg 936,339,1023,412,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00e6613b2d796515.jpg 1,473,108,589,0 45,334,181,433,0 887,392,993,504,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00e847daf21b5eff.jpg 378,69,539,183,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00eac330d2de5644.jpg 0,378,321,766,0 615,301,1023,553,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00edd2a96392872a.jpg 149,193,865,563,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00eff99787a9c035.jpg 0,0,1022,765,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00f220d92e7681e7.jpg 142,252,672,613,0 500,254,610,357,0 602,257,614,332,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00f6dc38eb6d9ff4.jpg 0,517,65,566,0 446,483,600,566,0 495,498,706,567,0 973,634,1023,722,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00f7c842aed37e79.jpg 0,0,1023,682,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00f7e34cb220ddbc.jpg 209,522,396,681,0 463,525,581,602,0 802,543,1023,671,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00fa57709c61887a.jpg 0,383,39,415,0 0,362,243,519,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00fb2f84d75f8624.jpg 161,300,279,369,0 274,309,312,344,0 421,308,691,434,0 717,305,1023,579,0 885,278,1023,356,0 917,289,1020,350,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00fb62be50bc2353.jpg 21,24,1023,734,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00fb75eb523cceec.jpg 166,232,840,692,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00fbeea1df0767a8.jpg 275,339,971,568,0 0,401,73,481,0 67,391,278,490,0 225,416,404,466,0 584,371,707,412,0 956,381,1023,491,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00ff1f25ad9fea4e.jpg 12,487,473,674,0 679,489,735,505,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\00ffdcf6ab380e3f.jpg 80,27,972,682,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0101f7a37d20628a.jpg 10,199,1023,623,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01059ab00175d8ea.jpg 68,135,970,632,0 778,72,1023,400,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\010785748f032c0e.jpg 68,33,827,740,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\010aac0ac6573333.jpg 435,0,753,273,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\010d7e2130cd2e30.jpg 60,328,984,581,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\010d9b32bd8fbb9e.jpg 138,354,308,448,0 110,2,134,24,0 170,45,204,73,0 197,40,231,70,0 328,359,499,455,0 437,53,480,73,0 493,325,567,369,0 509,287,564,330,0 545,346,636,398,0 597,298,640,339,0 657,234,695,271,0 685,263,729,296,0 688,184,728,217,0 721,217,758,245,0 745,111,766,128,0 758,149,790,172,0 769,92,795,115,0 776,133,809,150,0 792,106,814,120,0 794,87,804,104,0 804,78,824,101,0 817,91,840,110,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\010e19969436776c.jpg 26,66,725,543,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\010ea8f894a4c838.jpg 215,0,1023,574,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\010f96fd17c5a6a5.jpg 509,529,919,878,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\011392ef97fec4f6.jpg 6,446,601,706,0 0,463,175,767,0 320,405,779,607,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0114f140ef68132a.jpg 0,190,65,274,0 0,240,1007,565,0 23,182,112,242,0 856,190,912,270,0 894,184,997,249,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\011870e1ced4424a.jpg 83,446,1023,680,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\011873225b6432a4.jpg 53,0,257,199,0 163,0,1023,767,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0119721c4b581529.jpg 0,119,566,434,0 115,72,318,179,0 877,127,1023,263,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\011b7997f8b19901.jpg 828,132,1016,247,0 0,158,462,181,0 664,166,699,176,0 789,166,817,176,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\011c063bf20a3123.jpg 61,204,665,557,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\011c0eeb5162d65c.jpg 0,582,315,685,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\011eb2a76bb47a98.jpg 207,776,762,1023,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\012271965a163e18.jpg 832,314,858,331,0 945,323,1000,350,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0124eebf26e4bc56.jpg 153,609,861,751,0 304,565,340,584,0 311,589,342,646,0 320,596,356,659,0 332,589,421,657,0 362,589,484,674,0 368,557,435,590,0 416,565,500,614,0 484,577,615,685,0 615,568,795,643,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0125334384692058.jpg 0,334,990,641,0 445,572,761,766,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01271f7a1af57462.jpg 0,0,1010,767,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01284bc738ef460f.jpg 0,90,483,463,0 118,89,992,676,0 977,613,1023,682,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01284c3191f2da9c.jpg 46,381,118,424,0 154,355,334,446,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\012e29713bbc855f.jpg 0,180,232,305,0 72,154,903,611,0 210,152,275,208,0 746,155,890,197,0 933,167,989,205,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\012e7cb8db7a7fd3.jpg 0,250,79,411,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\012ed304c79159a2.jpg 0,572,114,645,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\012fbcc5db3bfb41.jpg 3,0,1023,717,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0131acd353d60a40.jpg 71,290,962,612,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01320c37f3ceec0d.jpg 58,159,972,708,0 26,143,254,299,0 308,207,472,255,0 496,140,1023,456,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0133893c5e7b95c1.jpg 33,688,502,979,0 40,140,488,332,0 40,471,491,666,0 516,747,741,978,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0134ec6695707c4e.jpg 132,177,807,481,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0135ffe8a27e2107.jpg 394,508,682,625,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0137f744e31ab3ff.jpg 424,466,667,637,0 0,408,928,767,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0138269d6403b79e.jpg 18,258,70,394,0 83,164,994,654,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0138a0a73e1eadea.jpg 77,145,846,693,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\013c73eb2fbabcad.jpg 409,489,529,582,0 481,485,518,510,0 522,460,554,483,0 524,483,565,525,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\013e95a1a2df0a55.jpg 0,18,999,715,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\013f412be0060e2d.jpg 751,658,999,973,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0141af7e4eb212a6.jpg 0,86,1023,635,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0143429b39ea616b.jpg 23,128,1023,711,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0148eedbd3041ab1.jpg 62,348,882,615,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01492ca7b65d02ba.jpg 0,0,432,321,0 487,0,915,57,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0149c1c739a73278.jpg 0,158,436,386,0 44,138,992,628,0 848,172,1023,338,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\014a5b40062b2f18.jpg 181,215,891,791,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\014c195652f21f2c.jpg 531,458,1023,682,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\014e437b3c9c751c.jpg 0,403,182,645,0 0,0,684,1023,0 0,320,684,768,0 197,487,239,529,0 223,464,372,634,0 337,394,684,826,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01507c908c22f836.jpg 711,174,1016,624,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01558aa19296d9e0.jpg 0,176,323,520,0 188,34,905,683,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01562b645f62b0c7.jpg 512,627,768,673,0 783,568,1023,673,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0156edf0f33e59d3.jpg 0,382,97,423,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0157f991b82393a8.jpg 136,230,899,584,0 104,224,394,360,0 548,215,646,240,0 668,209,763,256,0 743,200,1023,364,0 970,176,1023,256,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0158943da572415a.jpg 202,965,459,1023,0 490,956,744,1023,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0159a5b1bee97e6c.jpg 0,100,1002,684,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\015b5fc824902d20.jpg 0,255,784,666,0 309,85,976,440,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0160b8b121e747fd.jpg 358,578,890,764,0 488,436,512,462,0 634,520,827,606,0 925,492,1022,549,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01627c9e236faaef.jpg 0,110,1023,578,0 618,186,1023,675,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0163c40a2a81f762.jpg 305,361,489,460,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0164dd291a13629c.jpg 96,502,553,845,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01657d47087b18cc.jpg 0,593,171,767,0 134,615,174,658,0 175,621,334,735,0 323,567,357,606,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\016956d6f624573f.jpg 799,459,852,496,0 853,443,917,502,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01696064421758c4.jpg 88,197,903,677,0 0,241,16,293,0 0,256,57,421,0 0,374,135,767,0 53,235,87,260,0 90,228,106,249,0 105,215,149,293,0 486,138,1023,485,0 835,108,1023,231,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\016b6c34d04925cc.jpg 0,167,233,325,0 71,88,871,636,0 341,147,501,236,0 449,151,1023,463,0 716,138,1023,261,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\016e4fe350cef2f1.jpg 146,280,867,647,0 917,368,1023,428,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\017670a8be58643c.jpg 22,95,1005,605,0 0,215,96,326,0 0,139,220,216,0 257,151,295,187,0 782,127,1000,235,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0176ba8a9354b74c.jpg 0,0,1023,639,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01784b11ef6b12a8.jpg 117,135,913,515,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\017e74ddc3fddff1.jpg 135,356,450,576,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01800e60c2eaf519.jpg 135,307,551,399,0 478,307,682,421,0 600,304,833,443,0 732,312,1022,472,0 940,377,1022,489,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01840de72a7a00d2.jpg 0,586,77,659,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01861878caa0a212.jpg 454,449,540,478,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01885b6c353314eb.jpg 87,662,275,759,0 0,668,51,767,0 487,642,1020,767,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\018a74c61f3c1a57.jpg 0,185,775,679,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\018b1d996544ebd8.jpg 0,495,1023,682,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\018c8263f6c129dc.jpg 0,149,1023,327,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\018da24e17426672.jpg 732,108,1024,676,0 332,60,402,135,0 339,96,400,200,0 510,90,556,146,0 533,96,640,191,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\018dd2ad619e2208.jpg 72,165,600,701,0 0,203,41,295,0 493,193,979,495,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\018df220199a5b87.jpg 300,461,477,555,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\018edb0266aaf966.jpg 0,292,188,468,0 605,406,1023,686,0 791,560,1023,686,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\018f636475583f4e.jpg 359,426,735,606,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01920e764dd5a16a.jpg 552,204,1023,669,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\019283fe31a4264c.jpg 384,81,973,331,0 756,101,1023,261,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0193b2c01d7f55c6.jpg 0,437,101,615,0 436,430,538,504,0 615,430,705,488,0 663,430,731,468,0 701,427,727,444,0 732,426,782,454,0 826,418,875,438,0 875,422,916,435,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01965cc61848aa2b.jpg 133,121,921,361,0 608,205,1022,420,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01966043f197bab9.jpg 0,497,466,658,0 386,498,549,626,0 647,498,1011,565,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01988f7c1d50655f.jpg 0,343,254,574,0 261,392,703,513,0 273,357,327,396,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\019a2f8aba45b607.jpg 74,484,364,635,0 526,446,620,498,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\019bf7f27063c458.jpg 0,522,16,565,0 0,495,52,559,0 0,487,135,554,0 56,459,264,527,0 87,464,179,506,0 189,477,270,515,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\019fa2d188bb909e.jpg 33,0,990,653,0 170,96,423,224,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01a13677a08c3fde.jpg 23,366,275,558,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01a1c49976eb163c.jpg 10,873,546,1023,0 183,856,216,874,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01a31151248def6e.jpg 339,281,837,501,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01a4cb8f90961a5b.jpg 0,269,234,410,0 154,267,1016,595,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01a7587256c11268.jpg 23,4,765,432,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01a780223ae283ac.jpg 238,220,923,634,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01a9164961ddfc2a.jpg 271,296,918,570,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01aa9b9a3520fc0c.jpg 44,253,957,648,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01adc06c926e60a5.jpg 19,292,726,524,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01afa9c73f5f63af.jpg 0,364,201,502,0 0,315,213,423,0 208,310,512,435,0 530,284,638,390,0 668,299,767,389,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01b232d5fcdc5973.jpg 0,0,257,346,0 22,11,997,660,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01b2bc211841dade.jpg 604,177,618,187,0 620,175,903,196,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01b2ebb8917b4439.jpg 16,156,1023,590,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01b692653b76aee9.jpg 46,43,987,739,0 0,77,93,283,0 597,54,1023,433,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01b8f082ffa7e14d.jpg 0,375,60,419,0 0,353,142,405,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01b945ee77363f26.jpg 253,203,907,431,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01ba261073a9e8f4.jpg 0,555,788,765,0 681,542,921,669,0 880,544,933,638,0 911,552,960,630,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01bedaf614b4f4fc.jpg 183,455,192,461,0 198,459,205,462,0 205,462,212,467,0 225,474,232,482,0 772,577,937,673,0 893,615,1007,678,0 963,528,1012,561,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01bee2c78c93b5c0.jpg 265,364,761,517,0 0,364,165,513,0 846,309,1023,515,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01bf6625b7db9476.jpg 0,136,1023,682,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01c030f4e3f27f06.jpg 344,370,737,524,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01c3508e8958b68a.jpg 0,438,961,967,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01c72beecd045359.jpg 0,0,766,1022,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01c7422e3d9b2744.jpg 0,921,104,1023,0 200,893,503,1023,0 424,870,707,1001,0 618,844,767,987,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01d133018afa6aac.jpg 124,476,179,500,0 153,485,264,537,0 154,482,493,631,0 360,448,536,546,0 540,473,650,560,0 665,460,791,514,0 733,443,792,469,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01d3f5cfd80c49a4.jpg 722,538,1023,767,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01d4730eb3f8a2d4.jpg 810,563,1024,735,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01d52c271625bd76.jpg 90,664,611,926,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01d61567d42ac128.jpg 0,0,1022,1022,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01d6a5b1db1ef413.jpg 0,243,146,355,0 176,247,435,364,0 367,261,507,345,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01d6fb575c13e4da.jpg 734,351,1018,618,0 242,371,504,594,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01dce908cfce7cb8.jpg 0,2,764,422,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01e0f46a4186d66c.jpg 0,242,85,313,0 0,240,433,500,0 69,218,931,599,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01e1ec24455d60a0.jpg 122,450,178,520,0 161,445,263,529,0 213,465,309,546,0 247,476,391,565,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01e356ef4374ffb8.jpg 59,228,875,632,0 0,73,259,339,0 932,334,1022,766,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01e46bab22dbe5b6.jpg 85,149,282,272,0 97,0,210,31,0 264,167,440,266,0 440,0,545,51,0 570,207,688,282,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01e5dad6c0ab2d20.jpg 601,326,894,633,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01e7f1a5120c496a.jpg 55,591,654,1024,0 0,810,98,993,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01e846c846a1509e.jpg 23,258,64,307,0 711,255,856,327,0 900,259,1023,339,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01e87ab0a9cf7275.jpg 64,231,958,639,0 97,207,263,284,0 586,200,760,273,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01ebf3b320db13c4.jpg 254,469,499,558,0 0,447,144,530,0 12,463,200,536,0 109,460,332,556,0 211,444,268,480,0 647,458,784,509,0 768,462,872,503,0 842,458,889,497,0 871,451,956,495,0 876,456,914,501,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01ee843172fac284.jpg 0,203,426,682,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01f0ca82d759fbe9.jpg 351,487,572,657,0 944,492,1023,645,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01f1246ec97ab8e1.jpg 58,11,988,670,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01f2f5225275a58d.jpg 0,143,192,332,0 42,130,889,660,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01f4457b224f120c.jpg 658,143,872,228,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01f97086f52f3564.jpg 28,0,1015,842,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01fdd278e339ef75.jpg 96,523,415,632,0 342,532,627,633,0 632,542,886,633,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01fe0293df098672.jpg 485,190,997,407,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01fe6cb9e1156114.jpg 160,135,296,205,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\01ff5810bf5d398b.jpg 13,249,707,655,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\02032e62572501ff.jpg 131,475,348,602,0 350,440,387,466,0 415,439,449,465,0 798,455,1002,511,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\02037aaf8bc7fa19.jpg 0,42,984,682,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0206ffaa1221ef5a.jpg 235,117,999,599,0 757,184,1023,375,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0208e2a88fa66dff.jpg 240,199,812,530,0 376,169,563,263,0 649,185,742,220,0 837,176,907,222,0 910,183,950,209,0 1004,160,1023,213,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\020a736d92a4a50f.jpg 506,455,732,563,0 731,439,959,534,0 818,471,1023,767,0 924,442,1023,498,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\02125187b5bae982.jpg 10,0,228,125,0 287,63,432,152,0 445,64,601,140,0 905,0,1023,67,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\02125725d8201645.jpg 597,417,652,444,0 597,403,1023,471,0 608,416,649,444,0 615,417,692,451,0 656,411,773,458,0 801,394,1023,541,0 981,452,1023,541,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0214c90cd9582810.jpg 376,291,743,457,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0217d3e6c42521ff.jpg 568,503,789,589,0 514,501,580,535,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\021a5492cb605d70.jpg 0,230,869,552,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\02201b2a2eee7292.jpg 616,339,643,360,0 646,344,664,366,0 663,339,701,381,0 714,337,792,399,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\022132b436c1f044.jpg 44,40,931,490,0 72,3,156,45,0 88,16,224,126,0 154,4,242,43,0 249,0,342,51,0 334,0,435,50,0 341,5,1023,280,0 662,0,1023,79,0 919,0,1023,65,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\02213eab19cb0a0e.jpg 169,272,942,526,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\022231de8debd135.jpg 187,255,907,510,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0223eb92094c8a18.jpg 0,486,204,672,0 0,583,121,684,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0223f8f5dee25b5f.jpg 0,113,1007,554,0 131,162,529,223,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\022428b1a491095c.jpg 37,140,980,586,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0224b42b8cfd21d7.jpg 153,249,364,364,0 430,278,732,404,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0224e73791cdd3eb.jpg 0,19,1023,534,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0227b14e35f535aa.jpg 80,260,990,575,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\02280ff206e7c4d3.jpg 0,166,364,402,0 109,151,704,675,0 549,60,596,85,0 623,54,674,81,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\022831745d737ecd.jpg 273,535,432,647,0 385,527,429,574,0 400,528,413,558,0 509,522,642,602,0 688,522,861,650,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\022d66f6036d115b.jpg 70,456,241,518,0 323,460,514,490,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\022dceb45edbc353.jpg 33,10,1015,774,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\022dd2004076029a.jpg 159,117,901,666,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\022f2de898594195.jpg 133,216,903,473,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\023026be0acf20db.jpg 0,254,1023,550,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\023154d2f24c1f9f.jpg 0,0,1023,604,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\023569d0d4088b6c.jpg 0,236,1023,767,0 536,85,746,227,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0235b3aa3a75cb86.jpg 0,288,936,484,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0238236fb3fb45c6.jpg 90,319,296,454,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\023905d4a72f8de1.jpg 241,504,642,853,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0239c2c7dd78c9f7.jpg 0,0,1023,594,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\023d08b4bbc889ad.jpg 592,224,657,319,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\02405f96d8bb864a.jpg 0,0,1023,684,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0240ce5f9fe7f078.jpg 0,0,670,1020,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\02434ad27c8a2e47.jpg 0,0,1022,682,0 47,0,1022,394,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0244e9eb30f307c5.jpg 101,141,886,593,0 816,141,1023,344,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0245d7e13ed7c76f.jpg 29,331,412,494,0 543,309,929,501,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0247524a4c3e9628.jpg 0,0,1023,767,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\02478aa133026eab.jpg 0,234,753,556,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\024857ebae1ba430.jpg 0,170,443,536,0 32,157,1003,693,0 448,199,540,247,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\024a282cdc754de8.jpg 0,230,399,685,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\024ea2e85a5d3ff0.jpg 0,36,1024,552,0 798,67,1022,97,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\024f3df65d723c58.jpg 0,499,135,575,0 247,491,428,575,0 622,493,815,573,0 995,522,1021,571,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0253a60150bc5138.jpg 209,600,741,757,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\02541dbd67952da7.jpg 0,490,324,662,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0254e0d8da5f8c17.jpg 33,357,280,445,0 275,359,375,414,0 442,355,632,396,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0256c3a2b21723ce.jpg 229,280,483,379,0 0,258,147,295,0 96,261,472,327,0 503,272,1023,297,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\025a35eea070b04f.jpg 108,156,911,440,0 39,88,88,109,0 97,92,160,112,0 132,109,224,139,0 140,102,215,118,0 184,117,329,179,0 225,101,273,123,0 382,117,512,158,0 510,127,573,158,0 513,121,549,137,0 583,156,707,235,0 688,133,763,158,0 770,158,840,201,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\025dc8bb29e1167c.jpg 408,243,974,554,0 0,100,295,356,0 128,215,657,446,0 883,384,1023,654,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\025eb78346068bce.jpg 74,158,965,602,0 677,1,724,34,0 825,39,881,89,0 826,0,863,7,0 912,17,951,48,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\02628f32057c8a04.jpg 881,449,983,496,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0262981f99ba9f79.jpg 0,481,117,622,0 103,497,180,572,0 148,483,214,547,0 212,478,282,542,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\026379701e4c39bb.jpg 157,541,1023,677,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0263e5211529abf4.jpg 0,280,26,403,0 982,283,1023,312,0 984,308,1023,378,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0266454d98d2ed5a.jpg 0,217,216,324,0 10,14,1002,664,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0267c588943a7178.jpg 256,341,337,431,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\02681ba7eac8f937.jpg 134,305,577,524,0 0,312,68,416,0 432,327,566,404,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Car\0268b342abac352e.jpg 0,1,1023,766,0
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00009e5b390986a0.jpg 471,602,513,623,1 1007,519,1021,532,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\000228608388803f.jpg 183,591,315,655,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0002a5b67e5f0909.jpg 317,497,413,526,1 874,385,924,406,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00043e7c5c4c025a.jpg 785,386,862,438,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0005ea10e0e14db1.jpg 867,262,930,289,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0006dc0977056410.jpg 398,688,506,712,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00071c51c8e92a68.jpg 532,478,650,550,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00072b81abc72d21.jpg 262,590,321,604,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0007870724402b51.jpg 244,785,436,825,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\000812dcf304a8e7.jpg 406,711,492,748,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\000883b46adeca7e.jpg 823,551,915,637,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0009c4ddcaab18d3.jpg 820,331,912,385,1 990,305,1023,339,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\000f52302c1341eb.jpg 344,493,483,534,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00103aa8df33633a.jpg 354,435,544,517,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\001065dbc46c29c8.jpg 155,357,202,377,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0010f4c10f7ab07e.jpg 434,528,476,549,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0011d11a6a5ab5ad.jpg 467,524,542,539,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0014e05dcc74d3f3.jpg 368,337,705,488,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0015ed86d644a332.jpg 1,671,51,686,1 851,681,895,692,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00166578c691cd43.jpg 299,712,400,742,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\001679a19bb6fd3f.jpg 6,407,42,426,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0016bd822c0a9511.jpg 631,382,763,468,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00179ef6f55e4ba6.jpg 942,374,979,439,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0018e004f5cac5e0.jpg 0,258,69,425,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00192c1070c51ae3.jpg 145,487,176,506,1 354,520,403,545,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\001bebecea382500.jpg 456,597,677,642,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\001ca84e28488f7a.jpg 641,285,701,353,1 849,243,886,277,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\001cdd25e148cd36.jpg 42,379,72,417,1 653,285,672,292,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\001ddeda193f5789.jpg 542,526,688,601,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0021804a9f9d5db6.jpg 349,501,528,563,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0021af0b921af690.jpg 570,343,599,360,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0022fdfc1880d432.jpg 693,520,796,589,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00234c09cb4fa8e3.jpg 541,584,597,627,1 813,471,840,490,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0023d0908e76c600.jpg 133,556,219,608,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0023f6548005edf9.jpg 439,490,517,512,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\002519f868563098.jpg 200,480,300,548,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\002521102ecfac4c.jpg 393,839,456,874,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0025288e6192dc18.jpg 435,307,579,365,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\002635f5f3dfd5b9.jpg 621,540,728,604,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00268794e47eba14.jpg 302,408,332,426,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0026c246d5c33bea.jpg 73,427,143,447,1 393,477,465,503,1 592,398,650,415,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00272dd158c0663a.jpg 696,429,782,465,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\002901d9d194c4fb.jpg 254,377,364,473,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00293842c1405567.jpg 0,743,91,825,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0029cb5bf907f89e.jpg 459,450,585,483,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\002b11030ee89858.jpg 522,453,560,483,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\002c48dd05cc3b85.jpg 776,581,842,600,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\002cff1919a39fe7.jpg 949,520,976,543,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\002d099996f3f443.jpg 352,617,656,653,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\002dab7b4f062545.jpg 322,547,407,573,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\002e3bd6fea3828a.jpg 36,774,73,811,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\002f860e692757f7.jpg 106,601,400,665,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\002fbf2de58da8b5.jpg 76,135,115,147,1 143,302,295,359,1 780,194,845,214,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0030164dc0dba5d9.jpg 495,449,552,483,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\003551f1525e49af.jpg 344,624,385,657,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00366a52eec2943d.jpg 552,362,590,382,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0039ac4bfb8bd69d.jpg 604,521,746,554,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\003a9e99a2753141.jpg 0,326,53,351,1 368,545,652,604,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\003cd2790a0978ef.jpg 165,274,234,326,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\003df8cf2effae50.jpg 766,502,785,528,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\003f2728d2f8847e.jpg 570,407,584,417,1 756,459,783,474,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00403b390556e56d.jpg 7,242,29,253,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00438dad193f0c28.jpg 852,397,877,426,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0043cd2a3de997a5.jpg 254,290,342,341,1 943,306,1023,361,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0043ea91600e3cb8.jpg 617,644,696,685,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0044535b6c092973.jpg 912,579,983,609,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0045d88407bab692.jpg 101,495,152,535,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\004846b7de6995f2.jpg 775,557,814,580,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00492e9dbaf3c2a1.jpg 88,326,208,372,1 986,183,1023,193,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00493f6c61b373d3.jpg 597,436,799,531,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00494d0811b9e652.jpg 406,532,416,536,1 407,530,415,534,1 487,548,498,553,1 489,545,499,552,1 691,601,733,625,1 938,581,960,594,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0049ed70c1b2d480.jpg 75,418,87,428,1 163,467,181,481,1 377,433,407,453,1 979,455,1022,482,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\004abd1e49165b1c.jpg 275,507,383,541,1 935,426,1022,457,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\004aebeb3dea697a.jpg 197,364,832,682,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\004be6e7ea1c7ff8.jpg 378,741,481,843,1 630,527,729,622,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\004ce6e46f66a306.jpg 309,448,385,473,1 596,404,656,428,1 794,385,838,404,1 904,364,940,381,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\004e03d45963728e.jpg 408,484,479,501,1 835,347,859,353,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\004e5085b8127281.jpg 169,576,215,595,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\004f138ad0d084ae.jpg 233,587,457,707,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\004f62edd382ccb8.jpg 646,92,668,111,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\004fddebf0ac943c.jpg 137,497,195,520,1 612,759,727,802,1 720,501,751,526,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00541a1a33358591.jpg 309,641,426,693,1 643,266,679,280,1 843,258,884,282,1 940,586,1023,642,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\005706e3eb3d276f.jpg 261,521,400,553,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0058af43e819c7a7.jpg 0,828,203,1022,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0058bbcd8f6c9572.jpg 91,448,181,527,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\005932632ad92371.jpg 625,175,654,190,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\005ced5a9813fb0f.jpg 401,471,451,484,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\005e1faed531ae7e.jpg 245,590,307,613,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\006017783a8beb66.jpg 659,572,728,588,1 881,516,903,528,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0061db4fbe34adad.jpg 304,335,416,374,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0063cc2c5f7d82ed.jpg 236,556,356,618,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0063e41b53567829.jpg 208,201,270,217,1 387,157,407,162,1 728,268,776,320,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0069ea8b00e4a8d7.jpg 244,265,260,272,1 306,224,317,228,1 357,284,373,289,1 786,260,805,263,1 844,306,864,312,1 932,357,940,362,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\006a2f13b5b16c64.jpg 211,543,272,578,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\006f44b210255845.jpg 409,581,487,611,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0071cc12dfe35d22.jpg 460,768,777,855,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0072870f87cb938b.jpg 320,615,461,690,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0073c6274e24e7d2.jpg 50,225,101,261,1 157,385,268,470,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00749e86d631cba0.jpg 574,507,624,534,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00777823afff31f7.jpg 939,600,1022,632,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\007909bbfb014a75.jpg 464,405,553,501,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\007de6281e56f29e.jpg 839,515,963,610,1 980,384,1023,401,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0080f94f60085954.jpg 120,384,222,454,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00831662d2ba731a.jpg 341,320,672,476,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0083caf6f97b3d97.jpg 392,579,606,659,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0083e919337aebb0.jpg 325,438,420,490,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0087025a394a1aaf.jpg 16,437,56,482,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0088be963439e57d.jpg 773,270,837,391,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\008e36a5a0623445.jpg 0,653,30,665,1 304,754,386,773,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0090a11fa8b2b69d.jpg 828,389,885,514,1 908,58,960,115,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0092a20b63799744.jpg 0,417,48,448,1 735,549,851,590,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\009824ffd4586a33.jpg 81,286,120,307,1 467,329,535,354,1 956,272,977,283,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\009d23e04f2fccd8.jpg 724,720,750,734,1 811,747,819,755,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\009fcce3b5493593.jpg 824,268,900,324,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00a09b822d470896.jpg 1,433,67,454,1 181,308,200,314,1 592,506,671,527,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00a144adf6f339d7.jpg 214,366,316,426,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00a7d31c6cc6b7f3.jpg 622,405,798,494,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00a8d9ab7c3b9c0e.jpg 439,314,457,326,1 810,445,852,467,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00b1eb629cde980e.jpg 66,404,125,430,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00b4d07f7be89f98.jpg 126,616,147,625,1 766,544,786,553,1 858,634,888,650,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00b6f96c840767fa.jpg 171,464,865,651,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00bffc29492dbc26.jpg 130,518,252,568,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00c09e63c45b4752.jpg 288,803,485,843,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00c3fb728099e272.jpg 256,928,446,976,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00c82d64185293a7.jpg 412,410,536,456,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00c96e0e060aeb2f.jpg 679,458,755,479,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00ca4b949dd426f8.jpg 306,607,418,642,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00cac7ea145fc734.jpg 290,473,336,487,1 572,452,615,463,1 993,465,1023,476,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00cb8dccb5cb1f59.jpg 233,297,798,575,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00ceeec7002bace0.jpg 163,475,309,585,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00d03a35f54e8386.jpg 554,711,667,760,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00d087736d290d66.jpg 224,461,354,530,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00d0c3e342d41462.jpg 138,538,219,618,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00d17e785bbf2ca1.jpg 275,600,316,616,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00d1a3fa14b9c5e1.jpg 0,328,60,359,1 190,461,280,529,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00d202cef5442753.jpg 472,401,559,452,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00d366b6a4bf4e15.jpg 703,767,790,820,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00d5963c8f8e5381.jpg 208,411,321,468,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00d763761e47f723.jpg 225,424,314,466,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00d90448dcea9140.jpg 414,329,525,357,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00d9a751d73ee232.jpg 310,515,416,580,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00d9db3d2c186504.jpg 254,484,352,508,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00dea1edf14f09ab.jpg 558,645,662,700,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00e10a097af9f0d8.jpg 847,391,884,416,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00e481ea1a520175.jpg 360,615,448,647,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00e4cd60e84c0463.jpg 256,552,336,580,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00e8e5e79255536f.jpg 478,410,588,452,1 754,440,776,445,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00eb06ce368a9b9b.jpg 22,511,178,567,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00f04d8a2225b873.jpg 907,435,947,492,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00f220d92e7681e7.jpg 417,496,566,534,1 549,294,581,312,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00f7e34cb220ddbc.jpg 533,575,554,585,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00f8eb771370fabc.jpg 184,434,701,665,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00fb62be50bc2353.jpg 716,481,893,533,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00fd1096ba77710e.jpg 725,364,833,401,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\00ff10580fd2c0a3.jpg 489,452,632,519,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01005e15c5db91a2.jpg 114,389,255,464,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01074445420897a5.jpg 19,387,90,417,1 547,536,649,577,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\010a0c44af2d077e.jpg 743,358,876,399,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\010abd2fab4f5949.jpg 227,275,257,300,1 692,449,796,491,1 886,236,915,251,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\010c02e024d29b05.jpg 610,437,647,451,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01121f7b33853547.jpg 887,388,956,452,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0112fff372a9199f.jpg 757,333,865,374,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\011313e10dcd6d12.jpg 194,336,298,431,1 815,222,908,259,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0116dcb302273101.jpg 166,277,321,323,1 842,124,938,146,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0120712ddbf37c81.jpg 230,106,881,657,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01226892fe46adee.jpg 264,652,368,689,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0123f836ce94678a.jpg 326,504,511,543,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\012ee3701bb7582c.jpg 450,471,600,505,1 974,182,1023,201,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0137f744e31ab3ff.jpg 277,523,309,536,1 516,578,556,602,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\013d1f1e520e0671.jpg 304,364,457,443,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0143bda2cbfdd1fb.jpg 268,415,372,443,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0145644b6378f2ea.jpg 562,500,621,531,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\014a2d21a3cc8852.jpg 629,569,708,588,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\014a5b40062b2f18.jpg 596,663,720,722,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\014a74acea6f18fe.jpg 386,528,495,578,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\014ba19f37c0a46c.jpg 122,64,153,75,1 565,337,696,409,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\014e437b3c9c751c.jpg 280,547,337,561,1 475,609,608,642,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\015d88643812decf.jpg 938,538,957,550,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0163c40a2a81f762.jpg 334,406,367,416,1 643,451,690,463,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01646b54d973aced.jpg 116,564,896,689,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0164f00f5ff84349.jpg 705,349,903,441,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\016782dc5cdbd0ce.jpg 523,890,574,915,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\017b29ad9085a9a8.jpg 434,374,458,384,1 476,534,600,582,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0181c8fe6cc0b2c8.jpg 352,510,410,532,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01885b6c353314eb.jpg 1,715,19,731,1 220,713,239,724,1 511,719,524,728,1 705,735,731,749,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0189de61d70fabfe.jpg 682,687,716,695,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\018e165c556b2eb6.jpg 217,458,365,502,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01929e6e4467314d.jpg 195,479,314,509,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0195e8a172eddc29.jpg 266,483,510,534,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01984a985e4bf80f.jpg 325,596,671,671,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\019a2a22e51ee1a9.jpg 210,324,734,437,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\019d57e7d8799f24.jpg 497,569,533,580,1 903,561,938,574,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01a599bd26b8ebf8.jpg 28,376,57,385,1 169,419,202,428,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01a916bfaa3a7427.jpg 257,215,321,235,1 705,361,841,437,1 913,229,949,241,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01ad33d0ee9a7315.jpg 164,361,343,457,1 884,87,955,112,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01b09b8072388fdb.jpg 545,646,576,656,1 659,660,695,674,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01b2258172841ebc.jpg 645,635,680,647,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01b5c6bc9d18b4e7.jpg 661,472,810,536,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01b805b9f96679a3.jpg 161,465,244,512,1 894,371,966,393,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01b929953b0671ae.jpg 805,431,890,510,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01bfea359c5d1131.jpg 392,412,435,433,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01c7422e3d9b2744.jpg 635,962,675,974,1 740,904,766,916,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01d0a3d07e032990.jpg 552,280,758,337,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01df220cc71e07af.jpg 372,256,510,360,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01e03ec69847f36c.jpg 117,496,256,574,1 915,579,947,621,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01e1ec24455d60a0.jpg 314,518,353,535,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01e2315172fea9e4.jpg 169,487,259,536,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01e846c846a1509e.jpg 676,385,736,408,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01ebd4f1b7f87a41.jpg 103,147,826,558,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01f32030f855c316.jpg 117,584,203,616,1 487,505,510,514,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\01fb8b5325e992d9.jpg 583,505,644,521,1 766,505,793,515,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\020326c96ff05c1f.jpg 260,415,322,437,1 805,421,871,445,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0203b609336980a4.jpg 684,547,789,573,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\020f0ea4d2eb8876.jpg 430,358,625,461,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\021a3f4ad16708b8.jpg 325,410,377,436,1 632,405,687,434,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\021b3c3c66e93910.jpg 228,648,256,668,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\021d0fd9b41f8d4b.jpg 206,242,796,533,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\022831745d737ecd.jpg 331,601,370,612,1 771,584,815,607,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0239c2c7dd78c9f7.jpg 322,118,712,358,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\024604312c78c4f4.jpg 415,766,520,840,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\024a77ccdb9410b1.jpg 225,414,262,434,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\024b94a661485946.jpg 415,400,521,461,1 808,356,886,380,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\0257f9e3387efc1a.jpg 106,146,117,152,1 411,271,506,327,1 773,198,807,215,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\025c30962ae5b499.jpg 366,427,507,478,1
+C:\Users\AsusPC\tensorflowProject\oid\OID\Dataset\train\Plate\025d0abb8f2ef2d6.jpg 356,889,495,924,1
